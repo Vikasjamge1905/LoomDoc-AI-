@@ -1,8 +1,0 @@
-streamlit
-google-genai
-sentence-transformers
-torchvision
-faiss-cpu
-numpy
-pypdf
-python-docx
